@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hi, I'm Javier Delgado!<br>I'm a software development student passionate about programming.<br>This is my personal GitHub page, where I share my side projects <br>and experiments. <br>Previously, I worked as a business consultant in Brussels <br>before making the leap into tech. <br><br>Fun fact: I speak Japanese!
+Hi, I'm Javier Delgado!<br>I'm a software development student passionate about programming.<br>This is my personal GitHub page, where I share my side projects <br>and experiments. <br>Previously, I worked as a business consultant in Brussels <br>before making the leap into tech. <br><br>Fun fact: I can speak Japanese & Dutch!
 
 
 ## 🌐 Socials:
